@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'this is second commit'
+echo 'this is second commit poll scm'
